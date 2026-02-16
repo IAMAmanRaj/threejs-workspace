@@ -1,6 +1,6 @@
 [build]
   base = "project_1/Sphere"
-  command = "npm run build"
+  command = "npm install && npm run build"
   publish = "dist"
 
 [[redirects]]
