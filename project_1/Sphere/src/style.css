@@ -48,3 +48,15 @@ nav ul {
     top:75%;
     transform: translate(-50%,-75%);
 }
+
+footer {
+    color: white;
+    z-index: 2;
+    position: fixed;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.9rem;
+    font-weight: 300;
+    text-align: center;
+}
