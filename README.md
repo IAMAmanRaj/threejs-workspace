@@ -13,7 +13,7 @@ Welcome to my Three.js workspace. This repository contains a collection of inter
 ```
 threejs-workspace/
 ├── project_1/
-│   └── Sphere/          # Interactive 3D Sphere with color-changing effects
+    └── Sphere/          # Interactive 3D Sphere with color-changing effects
 ```
 
 ## Technologies Used
